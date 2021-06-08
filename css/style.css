@@ -1,0 +1,109 @@
+
+.logo{
+	display: inline-block;
+	margin-right: 50px;
+	margin-left: 25px;
+	vertical-align: baseline;
+}
+.navigation {
+	display: inline-block;
+}
+
+*{
+	text-decoration: none;
+}
+*{
+ box-sizing: border-box;
+}
+.navli{
+	display: inline-block;
+	margin-right: 50px;
+}
+.logo2{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+
+}
+.active {
+	color: #343638;
+}
+.header-wrapper{
+	height: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+
+.body{
+	line-height: 1;
+}
+
+.trending{
+	margin-top: 80px;
+	left: auto;
+	right: auto;
+}
+.timeimage{
+	display: inline-block;
+	vertical-align: middle;
+}
+.datetext{
+	display: inline-block;
+	vertical-align: middle;
+}
+.trending1{
+	display: inline-block;
+	background-color: #FFFFFF;
+    margin-right: 40px;
+    width: 360px;
+    height: 350px;
+    vertical-align: top;
+}
+
+.trending2{
+	display: inline-block;
+	background-color: #FFFFFF;
+    margin-right: 40px;
+    width: 360px;
+    height: 350px;
+    vertical-align: top;
+}
+
+.trending3{
+	display: inline-block;
+	background-color: #FFFFFF;
+    width: 360px;
+    height: 350px;
+    vertical-align: top;
+}
+}
+.twrapper{
+	position: relative;
+    margin-bottom: 66px;
+}
+.imagetext1{
+	position: absolute;
+    bottom: 136px;
+    left: 40px;
+}
+twrapper2{
+	position: relative;
+	margin-bottom: 66px;
+}
+.imagetext2{
+	position: absolute;
+    bottom: 136px;
+    left: 40px;
+}
+.twrapper3{
+	position: relative;
+	margin-bottom: 66px;
+}
+.imagetext3{
+	position: absolute;
+    bottom: 136px;
+    left: 40px;
+}
